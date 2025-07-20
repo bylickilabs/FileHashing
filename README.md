@@ -1,6 +1,7 @@
 # File Hashing – Drag & Drop Application
 
-
+|<img width="1280" height="640" alt="fileHashing" src="https://github.com/user-attachments/assets/f6b4b6b7-6291-4875-859c-a82112efe680" />|
+|---|
 
 A professional desktop tool for instantly calculating cryptographic hashes (MD5, SHA-1, SHA-256, SHA-512) of any file via drag & drop.  
 Efficient, secure, and ready for everyday use by IT professionals and end users alike.
