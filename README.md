@@ -5,7 +5,11 @@
 A professional desktop tool for instantly calculating cryptographic hashes (MD5, SHA-1, SHA-256, SHA-512) of any file via drag & drop.  
 Efficient, secure, and ready for everyday use by IT professionals and end users alike.
 
+<br>
+
 ---
+
+<br>
 
 ## Features
 
@@ -20,7 +24,11 @@ Efficient, secure, and ready for everyday use by IT professionals and end users 
 - **Robust Error Handling:**  
   Invalid file drops are clearly flagged.
 
+<br>
+
 ---
+
+<br>
 
 ## Installation
 
@@ -46,7 +54,11 @@ Efficient, secure, and ready for everyday use by IT professionals and end users 
     python app.py
     ```
 
+<br>
+
 ---
+
+<br>
 
 ## Usage
 
