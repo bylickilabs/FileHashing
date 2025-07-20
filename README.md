@@ -67,8 +67,6 @@ Efficient, secure, and ready for everyday use by IT professionals and end users 
 - Drag and drop any file from your file explorer onto the application window.
 - Instantly view MD5, SHA-1, SHA-256, and SHA-512 hash results.
 
-![screenshot example](assets/screenshot.png) <!-- Replace with your screenshot path if available -->
-
 ---
 
 ## Typical Use Cases
